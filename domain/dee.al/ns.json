@@ -109,6 +109,16 @@
  "koneksi" : "NS",
  "hostku" : "herobrine",
  "target": "ns2.vercel-dns.com"
+    },
+  {
+ "koneksi": "NS",
+ "hostku": "info",
+ "target": "meiling.ns.cloudflare.com"
+  },
+  {
+ "koneksi" : "NS",
+ "hostku" : "info",
+ "target": "wilson.ns.cloudflare.com"
     }
 
 ]
